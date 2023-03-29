@@ -1,1 +1,1 @@
-this is for Oauth2 project
+this is for Oauth2 project using springboot
